@@ -1,6 +1,8 @@
 Tasks
 =====
 
+Welcome to the tasks repo!
+
 Tasks for various events for Poëtene
 
 
