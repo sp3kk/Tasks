@@ -8,7 +8,7 @@ Stian Jensen
 Iver Jordal
 Sigve Sebastian Farstad
 Péter Gombos
-Aleksander Vognlid Burkow
+Aleksander Vognild Burkow
 
 ==========================================================
 Se endringen din med (git diff).
