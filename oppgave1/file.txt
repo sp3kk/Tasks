@@ -3,6 +3,7 @@ Her kan du endre filer og deretter begå (commit) endringen.
 ==========================================================
 
 Skriv inn navnet ditt øverst i listen under:
+Markus Haraldseid
 Christoffer Tønnessen
 Stian Jensen
 Iver Jordal
